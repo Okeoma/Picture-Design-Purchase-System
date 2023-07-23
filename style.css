@@ -1,0 +1,81 @@
+header{
+   width: 1340px;
+   height: 95px;
+   background-color: #EE6969;
+}
+
+.private{
+	margin-left: 1160;
+}
+
+.home{
+	margin-left: 45px;
+	background-color: #AA0707;
+	height: 55px;
+	width: 125px;
+	border-radius: 12px;
+	color: white;
+}
+
+.home1{
+    margin-left: 45px;
+	background-color: #AA0707;
+	height: 55px;
+	width: 195px;
+	border-radius: 12px;
+	color: white;
+}
+
+.home_text{
+	font-size: 60px;
+	color: #FF0E0E;
+}
+
+.tag{
+	color: #FF0E0E;
+}
+
+.home_phrase1{
+	font-size: 45px;
+	margin-left: 85px;
+	color: #F05B5B;
+}
+
+.home_phrase2{
+	font-size: 45px;
+	margin-left: 925px;
+	color: #A40A0A;
+}
+
+.adImg{
+	width: 425px;
+	height: 215px;
+	margin-bottom: 75px;
+	margin-left: 425px;
+}
+
+.adImg1{
+	width: 425px;
+	height: 215px;
+}
+
+.adImg2{
+	width: 355px;
+	height: 215px;
+}
+
+.about_text{
+	font-size: 65px;
+	color: #F05B5B;
+}
+
+.about_paragraph{
+	font-size: 55px;
+	color: #A40A0A;
+}
+
+a{
+	font-size: 22px;
+	color: black;
+	text-decoration: none;
+}
